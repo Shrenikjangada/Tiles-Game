@@ -1,2 +1,4 @@
 # Tiles-Game
-Automted online musical tiles game sing python
+Automated online musical tiles game using python
+
+
